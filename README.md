@@ -4,7 +4,7 @@ Hi 👋 My name is Mihail Kornilov
 Backend PHP Developer
 ---------------------
 
-I've been learning to code since I was 13 in 2018. I started with trying to implement a complex calculator with Python doing my best but I didn't manage. Then my good friend advised me to study Frontend development. After I had learned HTML, CSS, Sass, JavaScript, client-server interaction, etc at a good level, I decided to become a Backend Developer. And here the fun begins! I really found a passion for Backend! Since 2020 I spend at least 3 hours a day developing in this direction.
+I've been learning to code since I was 13 in 2018. I started with trying to implement a complex calculator with Python doing my best but I didn't manage. Then my good friend advised me to start learning Frontend development. So did I. After some time there was a period when it all seemed to me very boring and uninteresting and suddenly I enjoyed coding with Python. I developed several Telegram bots, VK and YouTube parsers and integrated it to one project. But then I decided that it wasn't the very thing I'd like to work on. So I continued to study Frontend development. After I had learned HTML, CSS, Sass, JavaScript, client-server interaction, etc at a good level, I wanted to try myself as a Backend Developer. And here the fun begins! I really found a passion for Backend! Since 2020 I spend at least 3 hours a day developing in this direction.
 
 * 🌍  I'm based in Russia, Vladimir
 * 🖥️  See my portfolio at [Test](http://mrkitty.com)
@@ -12,13 +12,13 @@ I've been learning to code since I was 13 in 2018. I started with trying to impl
 * 🚀  I'm currently working on [Laravel Blog](http://github.com/muxailk/laravel_blog)
 * 🧠  I'm learning Laravel 9
 
-### Skills
+### Currently working with:
 
 
 <p align="left">
 <a href="https://www.php.net/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/php-colored.svg" width="75" height="75" alt="PHP" /></a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="75" height="75" alt="JavaScript" /></a>
-<a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="75" height="75" alt="Python" /></a>
+
 <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="75" height="75" alt="HTML5" /></a>
 <a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="75" height="75" alt="CSS3" /></a>
 <a href="https://sass-lang.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sass-colored.svg" width="75" height="75" alt="Sass" /></a>
@@ -26,6 +26,10 @@ I've been learning to code since I was 13 in 2018. I started with trying to impl
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="75" height="75" alt="MySQL" /></a>
 <a href="https://laravel.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/laravel-colored.svg" width="75" height="75" alt="Laravel" /></a>
 </p>
+
+### Previously worked with:
+
+<a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="75" height="75" alt="Python" /></a>
 
 
 ### Socials
