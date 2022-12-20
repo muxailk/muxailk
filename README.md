@@ -34,7 +34,7 @@ I've been learning to code since I was 13 in 2018. I started with trying to impl
 ### Previously worked with:
 
 <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="60" height="60" alt="Python" /></a>
-
+<a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"><img src="icons/SQLite.png" width="60" height="60" alt="SQLite" /></a>
 
 ### Socials
 
