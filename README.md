@@ -29,6 +29,8 @@ I've been learning to code since I was 13 in 2018. I started with trying to impl
 <a href="https://www.linux.org/" target="_blank" rel="noreferrer"><img src="icons/Linux.png" width="60" height="60" alt="Linux" /></a>
 <a href="https://www.gnu.org" target="_blank" rel="noreferrer"><img src="icons/Bash.png" width="60" height="60" alt="Bash" /></a>
 <a href="https://visualstudio.microsoft.com/ru/" target="_blank" rel="noreferrer"><img src="icons/VisualStudio.png" width="60" height="60" alt="VisualStudio" /></a>
+<a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer"><img src="icons/CSarp.png" width="60" height="60" alt="CSharp" /></a>
+<a href="https://learn.microsoft.com/en-us/dotnet/" target="_blank" rel="noreferrer"><img src="icons/DotNet.png" width="60" height="60" alt=".NET" /></a>
 </p>
 
 ### Previously worked with:
