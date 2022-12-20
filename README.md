@@ -16,7 +16,7 @@ I've been learning to code since I was 13 in 2018. I started with trying to impl
 
 
 <p align="left">
-<a href="https://www.php.net/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/php-colored.svg" width="60" height="60" alt="PHP" /></a>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+<a href="https://www.php.net/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/php-colored.svg" width="60" height="60" alt="PHP" /></a>&nbsp;
 <a href="https://laravel.com/" target="_blank" rel="noreferrer"><img src="icons/Laravel.png" width="60" height="60" alt="Laravel" /></a>
 <a href="https://getcomposer.org/" target="_blank" rel="noreferrer"><img src="icons/Composer.png" width="60" height="60" alt="Composer" /></a>
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="icons/Git.png" width="60" height="60" alt="Git" /></a>
@@ -38,7 +38,7 @@ I've been learning to code since I was 13 in 2018. I started with trying to impl
 
 ### Socials
 
-<p align="left"> <a href="https://vk.com/ded_vnutri27587" target="_blank" rel="noreferrer"><img src="icons/VK.png" width="60" height="60" /></a>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; href="https://www.github.com/muxailk" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="60" height="60" /></a></p>
+<p align="left"> <a href="https://vk.com/ded_vnutri27587" target="_blank" rel="noreferrer"><img src="icons/VK.png" width="60" height="60" /></a>&nbsp;<a href="https://www.github.com/muxailk" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="60" height="60" /></a></p>
 
 ### Badges
 
