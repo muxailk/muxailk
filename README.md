@@ -16,29 +16,29 @@ I've been learning to code since I was 13 in 2018. I started with trying to impl
 
 
 <p align="left">
-<a href="https://www.php.net/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/php-colored.svg" width="60" height="60" alt="PHP" /></a>
-<a href="https://laravel.com/" target="_blank" rel="noreferrer"><img src="icons/Laravel.png" width="60" height="60" alt="Laravel" /></a>
-<a href="https://getcomposer.org/" target="_blank" rel="noreferrer"><img src="icons/Composer.png" width="60" height="60" alt="Composer" /></a>
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="icons/Git.png" width="60" height="60" alt="Git" /></a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="60" height="60" alt="JavaScript" /></a>
-<a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="60" height="60" alt="HTML5" /></a>
-<a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="60" height="60" alt="CSS3" /></a>
-<a href="https://sass-lang.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sass-colored.svg" width="60" height="60" alt="Sass" /></a>
-<a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="60" height="60" alt="Bootstrap" /></a>
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="60" height="60" alt="MySQL" /></a>
-<a href="https://www.linux.org/" target="_blank" rel="noreferrer"><img src="icons/Linux.png" width="60" height="60" alt="Linux" /></a>
-<a href="https://www.gnu.org" target="_blank" rel="noreferrer"><img src="icons/Bash.png" width="60" height="60" alt="Bash" /></a>
-<a href="https://visualstudio.microsoft.com/ru/" target="_blank" rel="noreferrer"><img src="icons/VisualStudio.png" width="60" height="60" alt="VisualStudio" /></a>
+<a href="https://www.php.net/" target="_blank" rel="noreferrer" style="margin-right: 10px"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/php-colored.svg" width="60" height="60" alt="PHP" /></a>
+<a href="https://laravel.com/" target="_blank" rel="noreferrer" style="margin-right: 10px"><img src="icons/Laravel.png" width="60" height="60" alt="Laravel" /></a>
+<a href="https://getcomposer.org/" target="_blank" rel="noreferrer" style="margin-right: 10px"><img src="icons/Composer.png" width="60" height="60" alt="Composer" /></a>
+<a href="https://git-scm.com/" target="_blank" rel="noreferrer" style="margin-right: 10px"><img src="icons/Git.png" width="60" height="60" alt="Git" /></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer" style="margin-right: 10px"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="60" height="60" alt="JavaScript" /></a>
+<a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer" style="margin-right: 10px"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="60" height="60" alt="HTML5" /></a>
+<a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer" style="margin-right: 10px"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="60" height="60" alt="CSS3" /></a>
+<a href="https://sass-lang.com/" target="_blank" rel="noreferrer" style="margin-right: 10px"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sass-colored.svg" width="60" height="60" alt="Sass" /></a>
+<a href="https://getbootstrap.com/" target="_blank" rel="noreferrer" style="margin-right: 10px"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="60" height="60" alt="Bootstrap" /></a>
+<a href="https://www.mysql.com/" target="_blank" rel="noreferrer" style="margin-right: 10px"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="60" height="60" alt="MySQL" /></a>
+<a href="https://www.linux.org/" target="_blank" rel="noreferrer" style="margin-right: 10px"><img src="icons/Linux.png" width="60" height="60" alt="Linux" /></a>
+<a href="https://www.gnu.org" target="_blank" rel="noreferrer" style="margin-right: 10px"><img src="icons/Bash.png" width="60" height="60" alt="Bash" /></a>
+<a href="https://visualstudio.microsoft.com/ru/" target="_blank" rel="noreferrer" style="margin-right: 10px"><img src="icons/VisualStudio.png" width="60" height="60" alt="VisualStudio" /></a>
 </p>
 
 ### Previously worked with:
 
-<a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="60" height="60" alt="Python" /></a>
+<a href="https://www.python.org/" target="_blank" rel="noreferrer" style="margin-right: 10px"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="60" height="60" alt="Python" /></a>
 
 
 ### Socials
 
-<p align="left"> <a href="https://vk.com/ded_vnutri27587" target="_blank" rel="noreferrer"><img src="icons/VK.png" width="60" height="60" /></a> <a href="https://www.github.com/muxailk" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="60" height="60" /></a></p>
+<p align="left"> <a href="https://vk.com/ded_vnutri27587" target="_blank" rel="noreferrer" style="margin-right: 10px"><img src="icons/VK.png" width="60" height="60" /></a> <a href="https://www.github.com/muxailk" target="_blank" rel="noreferrer" style="margin-right: 10px"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="60" height="60" /></a></p>
 
 ### Badges
 
