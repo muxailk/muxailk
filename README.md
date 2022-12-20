@@ -4,11 +4,11 @@ Hi 👋 My name is Mihail Kornilov
 Backend PHP Developer
 ---------------------
 
-I've been learning to code since I was 13 in 2018. I started with trying to implement a complex calculator with Python doing my best but I didn't manage. Then my good friend advised me to start learning Frontend development. So did I. After some time there was a period when it all seemed to me very boring and uninteresting and suddenly I enjoyed coding with Python. I developed several Telegram bots, VK and YouTube parsers and integrated it to one project. But then I decided that it wasn't the very thing I'd like to work on. So I continued to study Frontend development. After I had learned HTML, CSS, Sass, JavaScript, client-server interaction, etc at a good level, I wanted to try myself as a Backend Developer. And here the fun begins! I really found a passion for Backend! Since 2020 I spend at least 3 hours a day developing in this direction.
+I've been learning to code since I was 13 in 2018. I started with trying to implement a complex calculator with Python doing my best but I didn't manage. Then my good friend advised me to start learning Frontend development. So did I. After some time there was a period when it all seemed to me very boring and uninteresting and suddenly I enjoyed coding with Python. I developed several Telegram bots, VK and YouTube parsers and integrated it to one project. But then I decided that it wasn't the very thing I'd like to work on. So I continued to study Frontend development. After I had learned HTML, CSS, Sass, JavaScript, client-server interaction, etc at a good level, I wanted to try myself as a Backend Developer. And here the fun begins! I really found a passion for Backend! Since 2020 I spend at least 3 hours a day developing in this direction. My main language is PHP but as a student I also use C#.
 
 * 🌍  I'm based in Russia, Vladimir
 * 🖥️  See my portfolio at [mysite](https://mrkitty.com)
-* ✉️  You can contact me at [mihey1327@mail.ru](mailto:mihey1327@mail.ru), [VKontakte](https://vk.com/ded_vnutri27587)
+* ✉️  You can contact me at [mihey1327@mail.ru](mailto:mihey1327@mail.ru), [https://vk.com/ded_vnutri27587](https://vk.com/ded_vnutri27587)
 * 🚀  I'm currently working on [Laravel Blog](http://github.com/muxailk/laravel_blog)
 * 🧠  I'm learning Laravel 9, Linux, Architectural principles
 
@@ -17,15 +17,18 @@ I've been learning to code since I was 13 in 2018. I started with trying to impl
 
 <p align="left">
 <a href="https://www.php.net/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/php-colored.svg" width="60" height="60" alt="PHP" /></a>
-<a href="https://laravel.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/laravel-colored.svg" width="60" height="60" alt="Laravel" /></a>
+<a href="https://laravel.com/" target="_blank" rel="noreferrer"><img src="icons/Laravel.png" width="60" height="60" alt="Laravel" /></a>
 <a href="https://getcomposer.org/" target="_blank" rel="noreferrer"><img src="icons/Composer.png" width="60" height="60" alt="Composer" /></a>
+<a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="icons/Git.png" width="60" height="60" alt="Git" /></a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="60" height="60" alt="JavaScript" /></a>
 <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="60" height="60" alt="HTML5" /></a>
 <a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="60" height="60" alt="CSS3" /></a>
 <a href="https://sass-lang.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sass-colored.svg" width="60" height="60" alt="Sass" /></a>
 <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="60" height="60" alt="Bootstrap" /></a>
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="60" height="60" alt="MySQL" /></a>
-<a href="https://www.linux.org/" target="_blank" rel="noreferrer"><img src="icons/linux.svg" width="60" height="60" alt="Linux" /></a>
+<a href="https://www.linux.org/" target="_blank" rel="noreferrer"><img src="icons/Linux.png" width="60" height="60" alt="Linux" /></a>
+<a href="https://www.gnu.org" target="_blank" rel="noreferrer"><img src="icons/Bash.png" width="60" height="60" alt="Bash" /></a>
+<a href="https://visualstudio.microsoft.com/ru/" target="_blank" rel="noreferrer"><img src="icons/VisualStudio.png" width="60" height="60" alt="VisualStudio" /></a>
 </p>
 
 ### Previously worked with:
@@ -35,7 +38,7 @@ I've been learning to code since I was 13 in 2018. I started with trying to impl
 
 ### Socials
 
-<p align="left"> <a href="https://codesandbox.io/u/rgrgrgrg" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/codesandbox.svg" width="60" height="60" /></a> <a href="https://www.github.com/muxailk" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="60" height="60" /></a></p>
+<p align="left"> <a href="https://vk.com/ded_vnutri27587" target="_blank" rel="noreferrer"><img src="icons/VK.png" width="60" height="60" /></a> <a href="https://www.github.com/muxailk" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="60" height="60" /></a></p>
 
 ### Badges
 
