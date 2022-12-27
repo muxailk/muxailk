@@ -12,7 +12,7 @@ I've been learning to code since I was 13 in 2018. I started with trying to impl
 * 🚀  I'm currently working on [Laravel Blog](http://github.com/muxailk/laravel_blog)
 * 🧠  I'm learning Laravel 9, Linux, Architectural principles
 
-### Currently working with:
+### Currently working with
 
 
 <p align="left">
@@ -34,15 +34,16 @@ I've been learning to code since I was 13 in 2018. I started with trying to impl
 <a href="https://learn.microsoft.com/en-us/dotnet/" target="_blank" rel="noreferrer"><img src="icons/DotNet.png" width="60" height="60" alt=".NET" /></a>
 </p>
 
-### Previously worked with:
+### Previously worked with
 
 <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="60" height="60" alt="Python" /></a>
 <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"><img src="icons/SQLite.png" width="60" height="60" alt="SQLite" /></a>
 
-### You can find me here:
+### You can find me here
 
 <p align="left"> <a href="https://vk.com/ded_vnutri27587" target="_blank" rel="noreferrer"><img src="icons/VK.png" width="60" height="60" /></a>
 &nbsp;<a href="https://www.github.com/muxailk" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="60" height="60" /></a>&nbsp;<a href="https://www.codewars.com/users/MashkaKakashka2011" target="_blank" rel="noreferrer"><img src="icons/Codewars.svg" width="60" height="60" /></a><a href="https://leetcode.com/Mihey0104/" target="_blank" rel="noreferrer"><img src="icons/Leetcode.png" width="60" height="60" /></a></p>
+
 ### Badges
 
 <b>My GitHub Stats</b>
