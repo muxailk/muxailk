@@ -10,7 +10,7 @@ I've been learning to code since I was 13 in 2018. I started with trying to impl
 * 🖥️  See my portfolio at [mysite](https://mrkitty.com)
 * ✉️  You can contact me at [mihey1327@mail.ru](mailto:mihey1327@mail.ru), [https://vk.com/ded_vnutri27587](https://vk.com/ded_vnutri27587)
 * 🚀  I'm currently working on [Laravel Blog](http://github.com/muxailk/laravel_blog)
-* 🧠  I'm learning Laravel 9, Linux, Architectural principles
+* 🧠  I'm learning Laravel 9, Linux
 
 ### Currently working with
 
