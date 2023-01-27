@@ -53,7 +53,7 @@ I've been learning to code since I was 13 in 2018. I started with trying to impl
 
 <b>Trophies</b>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=muxailk&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+<img src="icons/matrix.gif" alt="Matrix has you..." />
 
 ### Support Me
 
