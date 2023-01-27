@@ -51,10 +51,6 @@ I've been learning to code since I was 13 in 2018. I started with trying to impl
 
 <div width="100%" align="center"><a href="https://github.com/muxailk/laravel_blog" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=muxailk&repo=laravel_blog&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
 
-<b>Trophies</b>
-
-<img src="icons/matrix.gif" alt="Matrix has you..." />
-
 ### Support Me
 
 <a href="https://www.buymeacoffee.com/muxailk"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
