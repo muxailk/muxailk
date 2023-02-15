@@ -1,6 +1,5 @@
-<h1 align="center" style="color: #f75c7e">Mihail Kornilov</a></h1>
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=35&duration=4000&pause=1000&color=0BF700&center=true&vCenter=true&width=1000&lines=Backend+PHP+Developer;Software+Engineer;Computer+Science+Student&color=f75c7e)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=55&duration=2000&pause=1000000&color=F75C7E&center=true&vCenter=true&width=1000&height=100&lines=Mihail+Kornilov)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=35&duration=4000&pause=1000&center=true&vCenter=true&width=1000&lines=Backend+PHP+Developer;Software+Engineer;Computer+Science+Student&color=f75c7e)](https://git.io/typing-svg)
 
 I've been learning to code since I was 13 in 2018. I started with trying to implement a complex calculator with Python doing my best but I didn't manage. Then my good friend advised me to start learning Frontend development. So did I. After some time there was a period when it all seemed to me very boring and uninteresting and suddenly I enjoyed coding with Python. I developed several Telegram bots, VK and YouTube parsers and integrated it to one project. But then I decided that it wasn't the very thing I'd like to work on. So I continued to study Frontend development. After I had learned HTML, CSS, Sass, JavaScript, client-server interaction, etc at a good level, I wanted to try myself as a Backend Developer. And here the fun begins! I really found a passion for Backend! Since 2020 I spend at least 3 hours a day developing in this direction. My main language is PHP but as a student I also use C#.
 
