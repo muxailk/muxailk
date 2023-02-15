@@ -106,8 +106,6 @@ I've been learning to code since I was 13 in 2018. I started with trying to impl
 
 ![](./profile-3d-contrib/profile-night-rainbow.svg)
 
-![snake gif](https://github.com/muxailk/muxailk/blob/output/github-contribution-grid-snake.gif)
-
 <b>Top Repositories</b>
 
 <div width="100%" align="center">
