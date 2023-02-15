@@ -106,11 +106,7 @@ I've been learning to code since I was 13 in 2018. I started with trying to impl
 
 ![](./profile-3d-contrib/profile-night-rainbow.svg)
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg">
-  <img alt="github-snake" src="github-snake.svg">
-</picture>
+![snake gif](https://github.com/muxailk/muxailk/blob/output/github-contribution-grid-snake.gif)
 
 <b>Top Repositories</b>
 
