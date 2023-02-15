@@ -104,6 +104,8 @@ I've been learning to code since I was 13 in 2018. I started with trying to impl
 </a>
 <br /><br />
 
+![](./profile-3d-contrib/profile-night-rainbow.svg)
+
 <b>Top Repositories</b>
 
 <div width="100%" align="center">
