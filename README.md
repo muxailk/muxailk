@@ -68,7 +68,7 @@ I've been learning to code since I was 13 in 2018. I started with trying to impl
 
 ### You can find me here
 
-<p align="left" style="display: flex; gap: 3px"><a href="https://vk.com/ded_vnutri27587" target="_blank" rel="noreferrer"><img src="icons/VK.png" width="60" height="60" /></a>&nbsp;<a href="https://www.github.com/muxailk" target="_blank" rel="noreferrer" style="color: white;"><img src="icons/GitHub.png" width="60" height="60" /></a>&nbsp;<a href="https://www.codewars.com/users/MashkaKakashka2011" target="_blank" rel="noreferrer"><img src="icons/Codewars.svg" width="60" height="60" /></a><a href="https://leetcode.com/Mihey0104/" target="_blank" rel="noreferrer"><img src="icons/Leetcode.jpg" width="60" height="60" /></a></p>
+<p align="left"><a href="https://vk.com/ded_vnutri27587" target="_blank" rel="noreferrer"><img src="icons/VK.png" width="60" height="60" /></a>&nbsp;&nbsp;<a href="https://www.github.com/muxailk" target="_blank" rel="noreferrer" style="color: white;"><img src="icons/5968866.png" width="60" height="60"/></a>&nbsp;&nbsp;<a href="https://www.codewars.com/users/MashkaKakashka2011" target="_blank" rel="noreferrer"><img src="icons/Codewars.svg" width="60" height="60" /></a>&nbsp;&nbsp;<a href="https://leetcode.com/Mihey0104/" target="_blank" rel="noreferrer"><img src="icons/Leetcode.jpg" width="60" height="60" /></a></p>
 
 ### My GitHub Stats
 
