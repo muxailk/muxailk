@@ -7,7 +7,7 @@ I've been learning to code since I was 13 in 2018. I started with trying to impl
 
 * 🌍  I'm based in Ukraine, Kyiv
 * 🖥️  See my portfolio at [mysite](https://mrkitty.com)
-* ✉️  You can contact me at [mihey1327@mail.ru](mailto:mihey1327@mail.ru), [https://vk.com/ded_vnutri27587](https://vk.com/ded_vnutri27587)
+* ✉️  You can contact me at [mihey1327@mail.ru](mailto:mihey1327@mail.ru)
 * 🚀  I'm currently working on [Laravel Blog](http://github.com/muxailk/laravel_blog)
 * 🧠  I'm learning Laravel 9, Linux
 
@@ -68,7 +68,7 @@ I've been learning to code since I was 13 in 2018. I started with trying to impl
 
 ### You can find me here
 
-<p align="left"><a href="https://vk.com/ded_vnutri27587" target="_blank" rel="noreferrer"><img src="icons/VK.png" width="60" height="60" /></a>&nbsp;&nbsp;<a href="https://www.github.com/muxailk" target="_blank" rel="noreferrer" style="color: white;"><img src="icons/5968866.png" width="60" height="60"/></a>&nbsp;&nbsp;<a href="https://www.codewars.com/users/MashkaKakashka2011" target="_blank" rel="noreferrer"><img src="icons/Codewars.svg" width="60" height="60" /></a>&nbsp;&nbsp;<a href="https://leetcode.com/Mihey0104/" target="_blank" rel="noreferrer"><img src="icons/Leetcode.jpg" width="60" height="60" /></a></p>
+<p align="left"><a href="https://www.github.com/muxailk" target="_blank" rel="noreferrer" style="color: white;"><img src="icons/5968866.png" width="60" height="60"/></a>&nbsp;&nbsp;<a href="https://www.codewars.com/users/MashkaKakashka2011" target="_blank" rel="noreferrer"><img src="icons/Codewars.svg" width="60" height="60" /></a>&nbsp;&nbsp;<a href="https://leetcode.com/Mihey0104/" target="_blank" rel="noreferrer"><img src="icons/Leetcode.jpg" width="60" height="60" /></a></p>
 
 ### My GitHub Stats
 
