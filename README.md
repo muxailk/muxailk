@@ -8,7 +8,7 @@ I've been learning to code since I was 13 in 2018. I started with trying to impl
 * 🌍  I'm based in Ukraine, Kyiv
 * 🖥️  See my portfolio at [no-link](https://mrkitty.com)
 * ✉️  You can contact me at [mihey0104@gmail.com](mailto:mihey0104@gmail.com)
-* 🚀  I'm currently working on [organizer](http://github.com/muxailk/organizer)
+* 🚀  I'm currently working on [organizer](http://github.com/muxalik/organizer)
 * 🧠  I'm learning Laravel 9, Linux
 
 ### Currently working with
@@ -68,17 +68,17 @@ I've been learning to code since I was 13 in 2018. I started with trying to impl
 
 ### You can find me here
 
-<p align="left"><a href="https://www.github.com/muxailk" target="_blank" rel="noreferrer" style="color: white;"><img src="icons/5968866.png" width="60" height="60"/></a>&nbsp;&nbsp;<a href="https://www.codewars.com/users/MashkaKakashka2011" target="_blank" rel="noreferrer"><img src="icons/Codewars.svg" width="60" height="60" /></a>&nbsp;&nbsp;<a href="https://leetcode.com/Mihey0104/" target="_blank" rel="noreferrer"><img src="icons/Leetcode.jpg" width="60" height="60" /></a></p>
+<p align="left"><a href="https://www.github.com/muxalik" target="_blank" rel="noreferrer" style="color: white;"><img src="icons/5968866.png" width="60" height="60"/></a>&nbsp;&nbsp;<a href="https://www.codewars.com/users/MashkaKakashka2011" target="_blank" rel="noreferrer"><img src="icons/Codewars.svg" width="60" height="60" /></a>&nbsp;&nbsp;<a href="https://leetcode.com/Mihey0104/" target="_blank" rel="noreferrer"><img src="icons/Leetcode.jpg" width="60" height="60" /></a></p>
 
 ### My GitHub Stats
 
-<a href="http://www.github.com/muxailk">
-    <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="muxailk's streak" src="https://streak-stats.demolab.com/?user=muxailk&theme=monokai-metallian&hide_border=true" />
+<a href="http://www.github.com/muxalik">
+    <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="muxalik's streak" src="https://streak-stats.demolab.com/?user=muxalik&theme=monokai-metallian&hide_border=true" />
 </a>
 <br />
 <br />
-<a href="http://www.github.com/muxailk">
-    <img src="https://github-readme-activity-graph.cyclic.app/graph?username=muxailk&bg_color=1f212e&color=fecd71&line=f75c7e&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=Muxailk's%20GitHub%20Contribution%20Graph" alt="GitHub Commits Graph" />
+<a href="http://www.github.com/muxalik">
+    <img src="https://github-readme-activity-graph.cyclic.app/graph?username=muxalik&bg_color=1f212e&color=fecd71&line=f75c7e&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=Muxalik's%20GitHub%20Contribution%20Graph" alt="GitHub Commits Graph" />
 </a>
 <br /><br />
 
@@ -86,12 +86,12 @@ I've been learning to code since I was 13 in 2018. I started with trying to impl
 
 <b>Top Repositories</b>
 
-<div width="100%" align="center"><a href="https://github.com/muxailk/laravel_blog" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=muxailk&repo=laravel_blog&title_color=f75c7e&text_color=ffffff&icon_color=f75c7e&bg_color=1f212e&hide_border=true&locale=en" /></a>
+<div width="100%" align="center"><a href="https://github.com/muxalik/laravel_blog" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=muxalik&repo=laravel_blog&title_color=f75c7e&text_color=ffffff&icon_color=f75c7e&bg_color=1f212e&hide_border=true&locale=en" /></a>
 </div>
 <br /><br /><br /><br /><br /><br />
 
 ### Support Me
 
-<a href="https://www.buymeacoffee.com/muxailk">
+<a href="https://www.buymeacoffee.com/muxalik">
     <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" />
 </a>
