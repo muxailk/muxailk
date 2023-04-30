@@ -96,8 +96,8 @@ I've been learning to code since I was 13 in 2018. I started with trying to impl
 <br /><br /><br /><br /><br /><br />
 
 ### Support Me
-<p align="left">
+<div>
     <a href="https://www.buymeacoffee.com/muxailk">
         <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" />
     </a>
-</p>
+</div>
