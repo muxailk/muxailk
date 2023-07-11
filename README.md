@@ -14,24 +14,6 @@ I've been learning to code since I was 13 in 2018. I started with trying to impl
 ### Currently working with
 
 <p align="left" style="display: flex; gap: 3px">
-    <a href="https://www.php.net/" target="_blank" rel="noreferrer">
-        <img src="icons/php.png" width="60" height="60" alt="PHP" />
-    </a>
-    &nbsp;
-    <a href="https://laravel.com/" target="_blank" rel="noreferrer">
-        <img src="icons/laravel.png" width="60" height="60" alt="Laravel" />
-    </a>
-    <a href="https://getcomposer.org/" target="_blank" rel="noreferrer">
-        <img src="icons/Composer.png" width="60" height="60" alt="Composer" />
-    </a>
-    <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-        <img src="icons/git.png" width="60" height="60" alt="Git" />
-    </a>
-    &nbsp;
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-        <img src="icons/javascript.png" width="60" height="60" alt="JavaScript" />
-    </a>
-    &nbsp;
     <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer">
         <img src="icons/html.png" width="60" height="60" alt="HTML5" />
     </a>
@@ -41,12 +23,41 @@ I've been learning to code since I was 13 in 2018. I started with trying to impl
     <a href="https://sass-lang.com/" target="_blank" rel="noreferrer">
         <img src="icons/sass.png" width="60" height="60" alt="Sass" />
     </a>
-    <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="60" height="60" alt="Bootstrap" />
+    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
+        <img src="icons/javascript.png" width="60" height="60" alt="JavaScript" />
     </a>
-    <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-        <img src="icons/mysql.png" width="60" height="60" alt="MySQL" />
+    <a href="https://developer.mozilla.org/en-US/docs/Web/TypeScript" target="_blank" rel="noreferrer">
+        <img src="icons/typescript.png" width="60" height="60" alt="TypeScript" />
     </a>
+    <a href="#" target="_blank" rel="noreferrer">
+        <img src="icons/reactjs.png" width="60" height="60" alt="React" />
+    </a>
+    <a href="#" target="_blank" rel="noreferrer">
+        <img src="icons/tailwind.png" width="60" height="60" alt="Tailwind" />
+    </a>
+    <a href="#" target="_blank" rel="noreferrer">
+        <img src="icons/threejs.png" width="60" height="60" alt="Three.js" />
+    </a>
+    <a href="https://www.php.net/" target="_blank" rel="noreferrer">
+        <img src="icons/php.png" width="60" height="60" alt="PHP" />
+    </a>
+    &nbsp;
+    <a href="https://laravel.com/" target="_blank" rel="noreferrer">
+        <img src="icons/laravel.png" width="60" height="60" alt="Laravel" />
+    </a>
+    <a href="https://getcomposer.org/" target="_blank" rel="noreferrer">
+        <img src="icons/composer.png" width="60" height="60" alt="Composer" />
+    </a>
+    <a href="#" target="_blank" rel="noreferrer">
+        <img src="icons/mysql.png" width="60" height="60" alt="Mysql" />
+    </a>
+    <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
+        <img src="icons/git.png" width="60" height="60" alt="Git" />
+    </a>
+    <a href="#" target="_blank" rel="noreferrer">
+        <img src="icons/vscode.png" width="60" height="60" alt="VSCode" />
+    </a>
+    &nbsp;
 </p>
 
 ### Previously worked with
@@ -58,11 +69,24 @@ I've been learning to code since I was 13 in 2018. I started with trying to impl
     <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer">
         <img src="icons/SQLite.png" width="60" height="60" alt="SQLite" />
     </a>
+    <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="60" height="60" alt="Bootstrap" />
+    </a>
 </p>
 
 ### You can find me here
 
-<p align="left"><a href="https://www.github.com/muxalik" target="_blank" rel="noreferrer" style="color: white;"><img src="icons/5968866.png" width="60" height="60"/></a>&nbsp;&nbsp;<a href="https://www.codewars.com/users/MashkaKakashka2011" target="_blank" rel="noreferrer"><img src="icons/Codewars.svg" width="60" height="60" /></a>&nbsp;&nbsp;<a href="https://leetcode.com/Mihey0104/" target="_blank" rel="noreferrer"><img src="icons/Leetcode.jpg" width="60" height="60" /></a></p>
+<p align="left">
+    <a href="https://www.github.com/muxalik" target="_blank" rel="noreferrer" style="color: white;">
+        <img src="icons/github.png" width="60" height="60"/>
+    </a>&nbsp;&nbsp;
+    <a href="https://www.codewars.com/users/MashkaKakashka2011" target="_blank" rel="noreferrer">
+        <img src="icons/codewars.svg" width="60" height="60" />
+    </a>&nbsp;&nbsp;
+    <a href="https://leetcode.com/Mihey0104/" target="_blank" rel="noreferrer">
+        <img src="icons/Leetcode.jpg" width="60" height="60" />
+    </a>
+</p>
 
 ### My GitHub Stats
 
