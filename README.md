@@ -89,7 +89,7 @@ I've been learning to code since I was 13 in 2018. I started with trying to impl
 </p>
 
 ### My GitHub Stats
-
+    
 <a href="http://www.github.com/muxalik">
     <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="muxalik's streak" src="https://streak-stats.demolab.com/?user=muxalik&theme=monokai-metallian&hide_border=true" />
 </a>
@@ -102,13 +102,14 @@ I've been learning to code since I was 13 in 2018. I started with trying to impl
 
 ![](./profile-3d-contrib/profile-night-rainbow.svg)
 
-<b>Top Repositories</b>
-
-<a href="https://github.com/muxalik/laravel_blog" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=muxalik&repo=laravel_blog&title_color=f75c7e&text_color=ffffff&icon_color=f75c7e&bg_color=1f212e&hide_border=true&locale=en" /></a>
-<a href="https://github.com/muxalik/IT_Company_Api" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=muxalik&repo=IT_Company_Api&title_color=f75c7e&text_color=ffffff&icon_color=f75c7e&bg_color=1f212e&hide_border=true&locale=en" /></a>
-<a href="https://github.com/muxalik/laravel-broadcasting" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=muxalik&repo=laravel-broadcasting&title_color=f75c7e&text_color=ffffff&icon_color=f75c7e&bg_color=1f212e&hide_border=true&locale=en" /></a>
-
-<br /><br /><br /><br /><br /><br />
+<details open> 
+    <summary><h2>Top Repositories</h2></summary>
+    <p align="left">
+        <a href="https://github.com/muxalik/laravel_blog" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=muxalik&repo=laravel_blog&title_color=f75c7e&text_color=ffffff&icon_color=f75c7e&bg_color=1f212e&hide_border=true&locale=en" /></a>
+        <a href="https://github.com/muxalik/IT_Company_Api" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=muxalik&repo=IT_Company_Api&title_color=f75c7e&text_color=ffffff&icon_color=f75c7e&bg_color=1f212e&hide_border=true&locale=en" /></a>
+        <a href="https://github.com/muxalik/laravel-broadcasting" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=muxalik&repo=laravel-broadcasting&title_color=f75c7e&text_color=ffffff&icon_color=f75c7e&bg_color=1f212e&hide_border=true&locale=en" /></a>
+    </p>
+</details>
 
 ### Support Me
 <a href="https://www.buymeacoffee.com/muxailk">
