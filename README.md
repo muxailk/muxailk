@@ -95,9 +95,9 @@ I've been learning to code since I was 13 in 2018. I started with trying to impl
 </a>
 <br />
 <br />
-<a href="http://www.github.com/muxalik">
+<!-- <a href="http://www.github.com/muxalik">
     <img src="https://github-readme-activity-graph.cyclic.app/graph?username=muxalik&bg_color=1f212e&color=fecd71&line=f75c7e&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=Muxalik's%20GitHub%20Contribution%20Graph" alt="GitHub Commits Graph" />
-</a>
+</a> -->
 <br /><br />
 
 ![](./profile-3d-contrib/profile-night-rainbow.svg)
