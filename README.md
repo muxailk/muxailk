@@ -102,7 +102,7 @@ I've been learning to code since I was 13 in 2018. I started with trying to impl
 
 ![](./profile-3d-contrib/profile-night-rainbow.svg)
 
-### My GitHub Stats
+### Top Repositories
 <p align="left">
     <a href="https://github.com/muxalik/laravel_blog" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=muxalik&repo=laravel_blog&title_color=f75c7e&text_color=ffffff&icon_color=f75c7e&bg_color=1f212e&hide_border=true&locale=en" /></a>
     <a href="https://github.com/muxalik/IT_Company_Api" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=muxalik&repo=IT_Company_Api&title_color=f75c7e&text_color=ffffff&icon_color=f75c7e&bg_color=1f212e&hide_border=true&locale=en" /></a>
