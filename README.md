@@ -6,8 +6,8 @@
 * 🌍  I'm based in Russia, Vladimir
 * 🖥️  See my portfolio at [no-link](https://)
 * ✉️  You can contact me at [mihey0104@gmail.com](mailto:mihey0104@gmail.com)
-* 🚀  I'm currently working on [organizer](http://github.com/muxalik/organizer)
-* 🧠  I'm learning Laravel 10, React 
+* 🚀  I'm currently working on [Developer Portfolio](http://github.com/muxalik/developer-portfolio)
+* 🧠  I'm learning Laravel 10, React
 
 ### Currently working with
 
