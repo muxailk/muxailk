@@ -1,5 +1,5 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=55&duration=2000&pause=1000000&color=F75C7E&center=true&vCenter=true&width=1000&height=100&lines=Mihail+Kornilov)](https://git.io/typing-svg)
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=35&duration=3500&pause=700&center=true&vCenter=true&width=1000&lines=Backend+Developer;PHP/Laravel+Developer;Frontend+Developer;React+Developer;Fullstack+Developer&color=f75c7e)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=35&duration=3500&pause=700&center=true&vCenter=true&width=1000&lines=Backend+Developer;PHP/Laravel+Developer&color=f75c7e)](https://git.io/typing-svg)
 
 ### About me
 
