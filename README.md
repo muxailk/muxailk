@@ -4,9 +4,7 @@
 ### About me
 
 * 🌍  I'm based in Russia, Vladimir
-[comment]: <> (* 🖥️  See my portfolio at [no-link](https://))
 * ✉️  You can contact me at [mihey0104@gmail.com](mailto:mihey0104@gmail.com)
-[comment]: <> (* 🚀  I'm currently working on [Developer Portfolio](http://github.com/muxalik/developer-portfolio))
 * 🧠  I'm learning Linux, Redis
 
 ### Currently working with
@@ -18,23 +16,11 @@
     <a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer">
         <img src="icons/css.png" width="60" height="60" alt="CSS3" />
     </a>
-    <a href="https://sass-lang.com/" target="_blank" rel="noreferrer">
-        <img src="icons/sass.png" width="60" height="60" alt="Sass" />
-    </a>
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
         <img src="icons/javascript.png" width="60" height="60" alt="JavaScript" />
     </a>
-    <a href="https://developer.mozilla.org/en-US/docs/Web/TypeScript" target="_blank" rel="noreferrer">
-        <img src="icons/typescript.png" width="60" height="60" alt="TypeScript" />
-    </a>
-    <a href="#" target="_blank" rel="noreferrer">
-        <img src="icons/reactjs.png" width="60" height="60" alt="React" />
-    </a>
     <a href="#" target="_blank" rel="noreferrer">
         <img src="icons/tailwind.png" width="60" height="60" alt="Tailwind" />
-    </a>
-    <a href="#" target="_blank" rel="noreferrer">
-        <img src="icons/threejs.png" width="60" height="60" alt="Three.js" />
     </a>
     <a href="https://www.php.net/" target="_blank" rel="noreferrer">
         <img src="icons/php.png" width="60" height="60" alt="PHP" />
@@ -55,6 +41,12 @@
     <a href="#" target="_blank" rel="noreferrer">
         <img src="icons/vscode.png" width="60" height="60" alt="VSCode" />
     </a>
+    <a href="#" target="_blank" rel="noreferrer">
+        <img src="icons/redis.png" width="60" height="60" alt="Redis" />
+    </a>
+    <a href="#" target="_blank" rel="noreferrer">
+        <img src="icons/linux.png" width="60" height="60" alt="Linux" />
+    </a>
     &nbsp;
 </p>
 
@@ -69,6 +61,18 @@
     </a>
     <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="60" height="60" alt="Bootstrap" />
+    </a>
+    <a href="https://sass-lang.com/" target="_blank" rel="noreferrer">
+        <img src="icons/sass.png" width="60" height="60" alt="Sass" />
+    </a>
+    <a href="https://developer.mozilla.org/en-US/docs/Web/TypeScript" target="_blank" rel="noreferrer">
+        <img src="icons/typescript.png" width="60" height="60" alt="TypeScript" />
+    </a>
+    <a href="#" target="_blank" rel="noreferrer">
+        <img src="icons/reactjs.png" width="60" height="60" alt="React" />
+    </a>
+    <a href="#" target="_blank" rel="noreferrer">
+        <img src="icons/threejs.png" width="60" height="60" alt="Three.js" />
     </a>
 </p>
 
@@ -106,12 +110,4 @@
     <a href="https://github.com/muxalik/IT_Company_Api" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=muxalik&repo=IT_Company_Api&title_color=f75c7e&text_color=ffffff&icon_color=f75c7e&bg_color=1f212e&hide_border=true&locale=en" /></a>
     <a href="https://github.com/muxalik/laravel-broadcasting" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=muxalik&repo=laravel-broadcasting&title_color=f75c7e&text_color=ffffff&icon_color=f75c7e&bg_color=1f212e&hide_border=true&locale=en" /></a>
     <a href="https://github.com/muxalik/developer-portfolio" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=muxalik&repo=developer-portfolio&title_color=f75c7e&text_color=ffffff&icon_color=f75c7e&bg_color=1f212e&hide_border=true&locale=en" /></a>
-</p>
-<br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br />
-
-### Support Me
-<p align="left">
-    <a href="https://www.buymeacoffee.com/muxailk">
-        <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" />
-    </a>
 </p>
